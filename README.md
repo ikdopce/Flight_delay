@@ -1,5 +1,5 @@
 # 𝕱𝖑𝖎𝖌𝖍𝖙_𝖉𝖊𝖑𝖆𝖞
-https://drive.google.com/file/d/1homJRflM2muUaGl3q0qf1cWhTIlsE52d/view?usp=sharing
+[dataset](https://drive.google.com/file/d/1homJRflM2muUaGl3q0qf1cWhTIlsE52d/view?usp=sharing)
 Flight delay prediction. It is necessary to solve the classification problem and determine whether the flight will be delayed. To assess the quality of the classifier, we will use the ROC-AUC error.✈️🛫🛬
 The forecast was built using catboost, which was an innovation for me.🕵️‍♂️👌
 # 𝕱𝖎𝖑𝖊𝖘
